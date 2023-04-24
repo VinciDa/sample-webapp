@@ -1,0 +1,52 @@
+/* Global styles */
+
+
+header {
+  background-color: #1abc9c;
+  color: white;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+header nav ul li {
+  margin-left: 20px;
+}
+
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+main {
+  margin: 20px;
+}
+
+h2 {
+  color: #1abc
+}
+
+.topic-heading {
+ font-size: 24px;
+ font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content {
+  font-size: 14px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+ }
+ 
+ .vl {
+  border-left: 1px solid lightgrey;
+  height: 90vh;
+  
+}
+ 
